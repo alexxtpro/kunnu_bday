@@ -232,7 +232,7 @@ body {
   
   @keyframes moveTrain {
     0% {
-      transform: translateX(calc(20vw)); /* initial position outside the viewport */
+      transform: translateX(calc(300vw)); /* initial position outside the viewport */
     }
     100% {
       transform: translateX(-1200px); /* move across the viewport */
